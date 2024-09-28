@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-carsensorsimulator-dev-8cc3f-authRole",
+      "UnauthRoleArn": "arn:aws:iam::509399603429:role/amplify-carsensorsimulator-dev-8cc3f-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::509399603429:role/amplify-carsensorsimulator-dev-8cc3f-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-carsensorsimulator-dev-8cc3f-deployment",
+      "UnauthRoleName": "amplify-carsensorsimulator-dev-8cc3f-unauthRole",
+      "StackName": "amplify-carsensorsimulator-dev-8cc3f",
+      "StackId": "arn:aws:cloudformation:us-east-1:509399603429:stack/amplify-carsensorsimulator-dev-8cc3f/088e4a20-7d3b-11ef-b779-0e80a8fbbeab",
+      "AmplifyAppId": "d1zseoqaph1eek"
+    },
+    "categories": {
+      "auth": {
+        "carsensorsimulatorc8bba1bb": {}
+      }
+    }
+  }
+}
